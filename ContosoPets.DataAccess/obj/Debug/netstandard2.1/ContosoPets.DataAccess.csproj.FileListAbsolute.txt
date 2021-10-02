@@ -1,0 +1,11 @@
+/home/amelaku94/aspnet-learn/src/ContosoPets.DataAccess/bin/Debug/netstandard2.1/ContosoPets.DataAccess.deps.json
+/home/amelaku94/aspnet-learn/src/ContosoPets.DataAccess/bin/Debug/netstandard2.1/ContosoPets.DataAccess.dll
+/home/amelaku94/aspnet-learn/src/ContosoPets.DataAccess/bin/Debug/netstandard2.1/ContosoPets.DataAccess.pdb
+/home/amelaku94/aspnet-learn/src/ContosoPets.DataAccess/bin/Debug/netstandard2.1/ContosoPets.Domain.dll
+/home/amelaku94/aspnet-learn/src/ContosoPets.DataAccess/bin/Debug/netstandard2.1/ContosoPets.Domain.pdb
+/home/amelaku94/aspnet-learn/src/ContosoPets.DataAccess/obj/Debug/netstandard2.1/ContosoPets.DataAccess.csprojAssemblyReference.cache
+/home/amelaku94/aspnet-learn/src/ContosoPets.DataAccess/obj/Debug/netstandard2.1/ContosoPets.DataAccess.AssemblyInfoInputs.cache
+/home/amelaku94/aspnet-learn/src/ContosoPets.DataAccess/obj/Debug/netstandard2.1/ContosoPets.DataAccess.AssemblyInfo.cs
+/home/amelaku94/aspnet-learn/src/ContosoPets.DataAccess/obj/Debug/netstandard2.1/ContosoPets.DataAccess.csproj.CopyComplete
+/home/amelaku94/aspnet-learn/src/ContosoPets.DataAccess/obj/Debug/netstandard2.1/ContosoPets.DataAccess.dll
+/home/amelaku94/aspnet-learn/src/ContosoPets.DataAccess/obj/Debug/netstandard2.1/ContosoPets.DataAccess.pdb
